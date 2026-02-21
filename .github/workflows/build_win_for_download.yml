@@ -1,4 +1,4 @@
-name: STEPCODE
+name: STEPCODE Windows Build
 
 on:
   workflow_dispatch:
